@@ -2,7 +2,7 @@
 # python library (_snowboydetect.so, snowboydetect.py), using swig.
 
 # Please use swig-3.0.10 or up.
-SWIG := swig
+SWIG := swig3.0
 
 SNOWBOYDETECTSWIGITF = snowboy-detect-swig.i
 SNOWBOYDETECTSWIGOBJ = snowboy-detect-swig.o
